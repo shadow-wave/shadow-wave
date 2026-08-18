@@ -1,110 +1,49 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,8b5cf6,ec4899&height=230&section=header&text=Aravind%20O%20K&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Computational%20Physics%20%7C%20WebAssembly%20%7C%20Full-Stack%20Web&descFontSize=18&descAlignY=68" width="100%" />
+  <!-- Dynamic Cyberpunk Gradient Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=060813,4f46e5,7c3aed,ec4899&height=230&section=header&text=Aravind%20O%20K&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Computational%20Physics%20%E2%80%A2%20WebAssembly%20Architect%20%E2%80%A2%20Software%20Builder&descFontSize=16&descAlignY=64" width="100%" />
 
-  <p align="center">
-    <a href="https://shadow-wave.github.io/Omni-pro/">
-      <img src="https://img.shields.io/badge/🚀_FEATURED_APP-OMNI--STUDIO_PRO-6366f1?style=for-the-badge&logoColor=white" />
+  <!-- Animated Glowing Typing Headline -->
+  <a href="https://shadow-wave.github.io/aravind-portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=Computational+Physics+Undergraduate+%E2%9A%9B%EF%B8%8F;Client-Side+WebAssembly+(Pyodide)+Architect+%E2%9A%A1;Pandas+DataFrames+%26+Scientific+Visualizer+%F0%9F%93%8A;Interactive+Canvas+Engines+%26+ODE+Solvers+%F0%9F%8E%AE;Building+Zero-Cloud-Cost+Offline+Web+Labs+%F0%9F%93%A6" alt="Aravind Typing SVG" />
+  </a>
+
+  <!-- Quick Action Link Badges -->
+  <p align="center" style="margin-top: 14px;">
+    <a href="https://shadow-wave.github.io/aravind-portfolio/">
+      <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-030305?style=for-the-badge&logo=googlechrome&logoColor=6366f1&labelColor=060813" />
     </a>
-    <img src="https://img.shields.io/badge/FOCUS-WASM_%26_DATA_SCIENCE-3b82f6?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_COLLAB-10b981?style=for-the-badge" />
+    <a href="https://shadow-wave.github.io/Omni-pro/">
+      <img src="https://img.shields.io/badge/⚡_OMNI--STUDIO_PRO-4f46e5?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b" />
+    </a>
+    <a href="mailto:aravindok6@gmail.com">
+      <img src="https://img.shields.io/badge/📫_GET_IN_TOUCH-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=064e3b" />
+    </a>
   </p>
 
-  <p align="center">
-    <b>Physics undergraduate & software builder specialized in client-side WebAssembly engines, scientific simulations, interactive web utilities, and game systems.</b>
-  </p>
-
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ Technical Profile & System Snapshot
 
-* 🔬 **Research & Academics:** Physics undergraduate focusing on mathematical modeling, ODE mechanics, and data visualization.
-* ⚡ **Core Development:** Client-side computational tools using **Pyodide (WebAssembly)**, **Pandas**, and **Matplotlib**.
-* 🎮 **Interactive Systems:** Lightweight web game engines, canvas-based graphics, and reactive UI architecture.
-* 🐧 **Environment:** Power user running Fedora Linux & KDE Plasma desktop workflows.
+```python
+from dataclasses import dataclass
+from typing import List
 
----
-
-### 🚀 Featured Projects & Systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Omni-Studio Pro</h3>
-      <p>A standalone, offline-first browser IDE running real Python 3.11 entirely on the client side via WebAssembly.</p>
-      <ul>
-        <li><b>Engine:</b> Pyodide WASM + Service Worker Cache</li>
-        <li><b>Capabilities:</b> Pandas DataFrames, ODE Physics, High-DPI Plotting</li>
-        <li><b>Stack:</b> JavaScript, Tailwind CSS, CodeMirror</li>
-      </ul>
-      <p>
-        <a href="https://shadow-wave.github.io/Omni-pro/"><b>🔗 Live Web App</b></a> • 
-        <a href="https://github.com/shadow-wave/Omni-pro"><b>📂 Source Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Monster RPG & Web Arcades</h3>
-      <p>Interactive client-side game engine builds and exploration mechanics engineered with clean JavaScript/TypeScript logic.</p>
-      <ul>
-        <li><b>Architecture:</b> Custom canvas rendering & state management</li>
-        <li><b>Features:</b> Touch-optimized joystick & sprite mapping</li>
-        <li><b>Stack:</b> TypeScript, HTML5 Canvas, CSS3</li>
-      </ul>
-      <p>
-        <a href="https://github.com/shadow-wave/Monster-rpg"><b>📂 View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-  <b>Programming & Runtimes</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-  <br/><br/>
-  <b>Scientific Computing & Frontend</b><br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <br/><br/>
-  <b>Tools & Operating Systems</b><br/>
-  <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-
-</div>
-
----
-
-### 📊 GitHub Productivity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadow-wave&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0d14&title_color=818cf8&icon_color=a855f7&text_color=cbd5e1" height="155" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-wave&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0d14&title_color=818cf8&text_color=cbd5e1" height="155" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadow-wave&theme=tokyonight&hide_border=true&background=0b0d14&ring=6366f1&fire=ec4899&currStreakLabel=818cf8" height="145" alt="Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>Developed by Aravind O. K. • Physics & Computational Web Architect</sub>
-</div>
+@dataclass
+class DeveloperProfile:
+    name: str = "Aravind O. K."
+    institution: str = "Mahatma Gandhi College, Iritty (B.Sc. Physics)"
+    location: str = "Kannur, Kerala, India"
+    workstation_os: str = "Fedora Linux (KDE Plasma Desktop Shell)"
+    runtime_focus: str = "Client-Side Pyodide (WASM) & Numerical Modeling"
+    
+    def core_competencies(self) -> List[str]:
+        return [
+            "Mathematical Mechanics & Differential Equations",
+            "Pandas DataFrame Analytics & Feature Engineering",
+            "Publication-Grade Matplotlib & Canvas Visualizers",
+            "Offline-First Service Worker (PWA) Architectures",
+            "2D Game Loop State Machines & Mobile Touch Joysticks"
+        ]
