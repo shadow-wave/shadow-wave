@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Dynamic Cyberpunk Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=060813,4f46e5,7c3aed,ec4899&height=230&section=header&text=Aravind%20O%20K&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Computational%20Physics%20%E2%80%A2%20WebAssembly%20Architect%20%E2%80%A2%20Software%20Builder&descFontSize=16&descAlignY=64" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0c16,4f46e5,7c3aed,ec4899&height=240&section=header&text=Aravind%20O%20K&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Computational%20Physics%20%E2%80%A2%20WebAssembly%20Architect%20%E2%80%A2%20Software%20Developer&descFontSize=16&descAlignY=65" width="100%" />
 
   <!-- Animated Glowing Typing Headline -->
   <a href="https://shadow-wave.github.io/aravind-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=Computational+Physics+Undergraduate+%E2%9A%9B%EF%B8%8F;Client-Side+WebAssembly+(Pyodide)+Architect+%E2%9A%A1;Pandas+DataFrames+%26+Scientific+Visualizer+%F0%9F%93%8A;Interactive+Canvas+Engines+%26+ODE+Solvers+%F0%9F%8E%AE;Building+Zero-Cloud-Cost+Offline+Web+Labs+%F0%9F%93%A6" alt="Aravind Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=650&lines=Computational+Physics+Undergraduate+%E2%9A%9B%EF%B8%8F;Client-Side+WebAssembly+(Pyodide)+Architect+%E2%9A%A1;Pandas+DataFrames+%26+Scientific+Visualizer+%F0%9F%93%8A;Building+Offline-First+Web+Laboratories+%F0%9F%93%A6;Interactive+Canvas+Engines+%26+ODE+Solvers+%F0%9F%8E%AE" alt="Aravind Typing SVG" />
   </a>
 
   <!-- Quick Action Link Badges -->
@@ -25,25 +25,21 @@
 
 ---
 
-### ⚡ Technical Profile & System Snapshot
+### ⚡ Technical Profile & Core Vision
 
 ```python
-from dataclasses import dataclass
-from typing import List
-
-@dataclass
-class DeveloperProfile:
-    name: str = "Aravind O. K."
-    institution: str = "Mahatma Gandhi College, Iritty (B.Sc. Physics)"
-    location: str = "Kannur, Kerala, India"
-    workstation_os: str = "Fedora Linux (KDE Plasma Desktop Shell)"
-    runtime_focus: str = "Client-Side Pyodide (WASM) & Numerical Modeling"
-    
-    def core_competencies(self) -> List[str]:
-        return [
-            "Mathematical Mechanics & Differential Equations",
+class Aravind:
+    def __init__(self):
+        self.academic_base = "B.Sc. Physics @ Mahatma Gandhi College, Iritty"
+        self.location      = "Kannur, Kerala, India"
+        self.workstation   = "Fedora Linux | KDE Plasma Desktop Shell"
+        self.architecture  = "Zero-Cloud-Cost Client-Side WebAssembly (WASM)"
+        self.passions      = [
+            "Computational Mechanics & Nonlinear Dynamics",
             "Pandas DataFrame Analytics & Feature Engineering",
-            "Publication-Grade Matplotlib & Canvas Visualizers",
-            "Offline-First Service Worker (PWA) Architectures",
-            "2D Game Loop State Machines & Mobile Touch Joysticks"
+            "High-DPI Scientific Canvas Visualizers",
+            "Offline-First Progressive Web Applications"
         ]
+
+    def build_philosophy(self):
+        return "Transforming complex numerical science into frictionless, offline web tools."
