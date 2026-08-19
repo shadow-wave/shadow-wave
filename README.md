@@ -1,37 +1,67 @@
-<div align="center">
+# 🌐 Aravind O.K. — Personal Portfolio
 
-  <!-- 🌊 Fluid Waving Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,28&height=220&section=header&text=Aravind%20O.K.&fontSize=42&fontAlignY=38&desc=Physics%20Undergrad%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Aravind O.K. Header Banner" width="100%" />
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20with-GitHub%20Pages-blue?style=flat-square&logo=github)](https://shadow-wave.github.io/aravind-portfolio/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active%20%26%20Maintained-success?style=flat-square)]()
 
-  <!-- ⚡ Dynamic Typing Subtitle -->
-  <a href="https://github.com/Shadow-wave">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=B.Sc.+Physics+Student+%F0%9F%8E%93;Learning+%26+Building+Client-Side+Web+Apps+%E2%9A%A1;Exploring+Linux+Kernels+%26+Mobile+Modding+%F0%9F%90%A7;FOSS+Supporter+%E2%80%A2+Creative+Technologist" alt="Typing SVG" />
-  </a>
+A sleek, responsive, and performance-focused personal portfolio website showcasing projects across web development, creative design, and technical experiments.
 
-  <p align="center">
-    <a href="https://shadow-wave.github.io/portfolio">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-38bdf8?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="Portfolio" />
-    </a>
-    <a href="mailto:aravindok6@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Email-aravindok6%40gmail.com-818cf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" />
-    </a>
-    <a href="https://github.com/Shadow-wave">
-      <img src="https://img.shields.io/badge/🐙_GitHub-Shadow--wave-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" />
-    </a>
-  </p>
-
-</div>
+🔗 **Live Website:** [https://shadow-wave.github.io/aravind-portfolio/](https://shadow-wave.github.io/aravind-portfolio/)
 
 ---
 
-### 🌌 About Me
+## 📌 Table of Contents
 
-```yaml
-Name: Aravind O.K.
-Status: Undergraduate Student (B.Sc. Physics)
-Location: Kerala, India
-Current_Focus: Web Development (WASM / Client-Side), Android Modding & Theoretical Physics
-Operating_Systems: 
-  - Fedora Linux (Primary Workstation)
-  - CachyOS (Performance & Gaming)
-  - Windows 11
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Customization](#-customization)
+- [Contact](#-contact)
+- [License](#-license)
+
+---
+
+## 🚀 Overview
+
+This repository hosts the source code for my personal portfolio. Built with a focus on clean typography, responsive layouts, and lightweight interactivity, the site serves as a central hub for my software projects, digital creative work, and academic background.
+
+---
+
+## ✨ Key Features
+
+* **⚡ High Performance:** Pure, lightweight frontend stack with minimal overhead and zero unnecessary dependencies.
+* **📱 Fully Responsive:** Optimized for seamless viewing across smartphones, tablets, and wide desktop displays.
+* **🎨 Modern UI/UX:** Clean aesthetic featuring subtle animations, dark/light balanced contrast, and structured grid layouts.
+* **📂 Project Showcase:** Dedicated interactive sections highlighting web apps, tools, and design projects with live demo and source code links.
+* **📬 Contact Integration:** Quick, accessible touchpoints for networking, collaboration, and social profiles.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, Modern JavaScript (ES6+) |
+| **Styling & Layout** | Tailwind CSS / Responsive Flex & Grid Systems |
+| **Icons & Typography** | Modern Web Fonts, FontAwesome / SVG Icons |
+| **Hosting & CI/CD** | GitHub Pages |
+
+---
+
+## 📁 Project Structure
+
+```text
+aravind-portfolio/
+│
+├── index.html        # Main landing page & core layout
+├── assets/
+│   ├── css/          # Custom stylesheets and layout rules
+│   │   └── style.css
+│   ├── js/           # Interactive scripts, navigation logic, and animations
+│   │   └── main.js
+│   └── images/       # Project thumbnails, banners, and profile assets
+│
+├── README.md         # Documentation & repository overview
+└── LICENSE           # Open-source license
