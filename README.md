@@ -26,14 +26,16 @@
 
 ### ⚡ System Diagnostics & Focus Matrix
 
-<pre><code>user@shadow-wave:~$ neofetch --system-profile
+```yaml
+user@shadow-wave:~$ neofetch --system-profile
 --------------------------------------------
 • Identity      : Aravind O K
 • Core Domain   : Computational Mechanics, Applied Mathematics & Web Interfaces
 • Environment   : Linux (Fedora KDE Plasma) | WebAssembly | Client-Side V8
 • Tech Engine   : JavaScript (ES6+), Python, Pyodide, HTML5 Canvas, Tailwind CSS
 • Philosophy    : "Transforming pure mathematical theory into fluid, interactive software."
-• Status        : Engineering offline-first scientific software & canvas systems</code></pre>
+• Status        : Engineering offline-first scientific software & canvas systems
+```
 
 ---
 
