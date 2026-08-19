@@ -1,29 +1,25 @@
-<!-- ========================================================================= -->
-<!--                      ARAVIND O K (shadow-wave) PROFILE                    -->
-<!-- ========================================================================= -->
-
 <div align="center">
 
-<!-- DYNAMIC ANIMATED WAVING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,23,30&height=240&section=header&text=ARAVIND%20O%20K&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Where%20Computational%20Physics%20Meets%20Creative%20Frontend&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<!-- Dynamic Animated Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=240&section=header&text=Aravind%20O%20K&fontSize=52&fontAlignY=38&desc=Theoretical%20Physics%20%7C%20WebAssembly%20%7C%20Interactive%20Engines&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
 
-<!-- DYNAMIC TYPING STREAM -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Computational+Physics+%7C+WebAssembly+%26+Pyodide;Building+Offline-First+In-Browser+IDEs;Interactive+HTML5+Canvas+Engines+%26+Games;Fedora+Linux+Enthusiast+%7C+Creative+Technologist" alt="Typing SVG" />
+<!-- Dynamic Animated Typing SVG -->
+<a href="https://shadow-wave.github.io/aravind-portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Computational+Physics+%26+Mathematical+Engines;Offline-First+WebAssembly+(Pyodide)+IDEs;HTML5+Canvas+State+Machines+%26+Game+Loops;Bridging+Core+Science+with+Modern+Frontend+Systems" alt="Typing Banner" />
 </a>
 
 <br/>
 
-<!-- INTERACTIVE ACTION BADGES -->
+<!-- Interactive Quick Links -->
 <p align="center">
   <a href="https://shadow-wave.github.io/aravind-portfolio/">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white&shadow=true" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/⚡_Live_Portfolio-0a0d14?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=111827&color=6366F1" alt="Live Portfolio" />
   </a>
   <a href="mailto:aravindok6@gmail.com">
-    <img src="https://img.shields.io/badge/REACH_OUT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📫_Get_In_Touch-0a0d14?style=for-the-badge&logo=gmail&logoColor=EC4899&labelColor=111827&color=EC4899" alt="Email Aravind" />
   </a>
   <a href="https://github.com/shadow-wave?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-35-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+    <img src="https://img.shields.io/badge/🚀_All_Projects-0a0d14?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=111827&color=8B5CF6" alt="Repositories" />
   </a>
 </p>
 
@@ -31,7 +27,14 @@
 
 ---
 
-### ⚡ Interactive System Terminal
+### ⚡ System Diagnostics & Focus Matrix
 
-```bash
-aravind@shadow-wave:~$ fastfetch --developer-profile
+```yaml
+user@shadow-wave:~$ neofetch --system-profile
+--------------------------------------------
+• Identity      : Aravind O K
+• Core Domain   : Computational Mechanics, Applied Mathematics & Web Interfaces
+• Environment   : Linux (Fedora KDE Plasma) | WebAssembly | Client-Side V8
+• Tech Engine   : JavaScript (ES6+), Python, Pyodide, HTML5 Canvas, Tailwind CSS
+• Philosophy    : "Transforming pure mathematical theory into fluid, interactive software."
+• Status        : Building offline-first computational scientific tools and browser engines
