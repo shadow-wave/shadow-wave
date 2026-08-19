@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="[https://shadow-wave.github.io/aravind-portfolio/](https://shadow-wave.github.io/aravind-portfolio/)">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)⚡_Live_Portfolio-0a0d14?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=111827&color=6366F1" alt="Live Portfolio" />
+    <img src="[https://img.shields.io/badge/%E2%9A%A1_Live_Portfolio-0a0d14?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=111827&color=6366F1](https://img.shields.io/badge/%E2%9A%A1_Live_Portfolio-0a0d14?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=111827&color=6366F1)" alt="Live Portfolio" />
   </a>
   <a href="mailto:aravindok6@gmail.com">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)📫_Get_In_Touch-0a0d14?style=for-the-badge&logo=gmail&logoColor=EC4899&labelColor=111827&color=EC4899" alt="Email" />
+    <img src="[https://img.shields.io/badge/%F0%9F%93%AB_Get_In_Touch-0a0d14?style=for-the-badge&logo=gmail&logoColor=EC4899&labelColor=111827&color=EC4899](https://img.shields.io/badge/%F0%9F%93%AB_Get_In_Touch-0a0d14?style=for-the-badge&logo=gmail&logoColor=EC4899&labelColor=111827&color=EC4899)" alt="Email" />
   </a>
   <a href="[https://github.com/shadow-wave?tab=repositories](https://github.com/shadow-wave?tab=repositories)">
-    <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🚀_All_Projects-0a0d14?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=111827&color=8B5CF6" alt="Repositories" />
+    <img src="[https://img.shields.io/badge/%F0%9F%9A%80_All_Projects-0a0d14?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=111827&color=8B5CF6](https://img.shields.io/badge/%F0%9F%9A%80_All_Projects-0a0d14?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=111827&color=8B5CF6)" alt="Repositories" />
   </a>
 </p>
 
@@ -26,16 +26,15 @@
 
 ### ⚡ System Diagnostics & Focus Matrix
 
-<pre>
-user@shadow-wave:~$ neofetch --system-profile
+<pre><code>user@shadow-wave:~$ neofetch --system-profile
 --------------------------------------------
 • Identity      : Aravind O K
 • Core Domain   : Computational Mechanics, Applied Mathematics & Web Interfaces
 • Environment   : Linux (Fedora KDE Plasma) | WebAssembly | Client-Side V8
 • Tech Engine   : JavaScript (ES6+), Python, Pyodide, HTML5 Canvas, Tailwind CSS
 • Philosophy    : "Transforming pure mathematical theory into fluid, interactive software."
-• Status        : Engineering offline-first scientific software & canvas systems
-</pre>
+• Status        : Engineering offline-first scientific software & canvas systems</code></pre>
+
 ---
 
 ### 🛠️ Technology Ecosystem & Frameworks
@@ -74,6 +73,7 @@ user@shadow-wave:~$ neofetch --system-profile
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📊 Real-Time Contribution Flow
