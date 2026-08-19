@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Dynamic Animated Waving Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=240&section=header&text=Aravind%20O%20K&fontSize=52&fontAlignY=38&desc=Theoretical%20Physics%20%7C%20WebAssembly%20%7C%20Interactive%20Engines&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
 
-<!-- Dynamic Animated Typing SVG -->
 <a href="https://shadow-wave.github.io/aravind-portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Computational+Physics+%26+Mathematical+Engines;Offline-First+WebAssembly+(Pyodide)+IDEs;HTML5+Canvas+State+Machines+%26+Game+Loops;Bridging+Core+Science+with+Modern+Frontend+Systems" alt="Typing Banner" />
 </a>
 
 <br/>
 
-<!-- Interactive Quick Links -->
 <p align="center">
   <a href="https://shadow-wave.github.io/aravind-portfolio/">
     <img src="https://img.shields.io/badge/⚡_Live_Portfolio-0a0d14?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=111827&color=6366F1" alt="Live Portfolio" />
