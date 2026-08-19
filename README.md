@@ -1,35 +1,26 @@
 <div align="center">
 
-  <!-- Animated Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35,49&height=220&section=header&text=Aravind%20O%20K&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physicist%20in%20the%20making%20%7C%20Creative%20Frontend%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+# Hi, I'm Aravind O K 👋
+### *Where Mathematical Logic Meets Interactive Web Engineering*
 
-  <!-- Dynamic Typing SVG -->
-  <a href="https://shadow-wave.github.io/aravind-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+my+digital+universe!;Crafting+sleek+interfaces+%26+creative+code;Exploring+physics,+logic+%26+design;Click+below+to+explore+my+live+portfolio!;" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Computational+Physics+%26+Simulation;WebAssembly+%26+Client-Side+Python;Interactive+Canvas+Engines+%26+Games;Modern+Responsive+Frontend+Architecture)](https://git.io/typing-svg)
 
-  <br/>
-
-  <!-- Interactive Portfolio CTA Button -->
-  <a href="https://shadow-wave.github.io/aravind-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VISIT_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=0F172A" alt="Live Portfolio"/>
-  </a>
-  <a href="mailto:aravindok6@gmail.com">
-    <img src="https://img.shields.io/badge/GET_IN_TOUCH-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0F172A" alt="Email"/>
-  </a>
+<p align="center">
+  <a href="https://shadow-wave.github.io/aravind-portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:aravindok6@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
 ---
 
-### 💫 About Me
+### 🔬 Core Architecture & Technical Focus
 
-```yaml
-name: Aravind O K
-location: Kerala, India
-passions:
-  - Theoretical & Applied Physics 🌌
-  - Responsive Frontend & UI/UX Engineering ⚡
-  - Interactive Web Experiences & Game Logic 🎮
-current_focus: Building performant client-side web tools & creative media layouts
-motto: "Where mathematical logic meets creative design."
+```text
+aravind@shadow-wave:~$ neofetch --dev-focus
+------------------------------------------
+OS: Linux / WebAssembly / Pyodide Runtime
+Focus: Computational Mechanics & Client-Side Physics Labs
+Stack: JavaScript (ES6+), Python, HTML5 Canvas, Tailwind CSS, Pyodide
+Current Project: High-performance browser IDEs & mathematical engines
+Motto: "Turning abstract equations into responsive visual software."
