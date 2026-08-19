@@ -1,49 +1,33 @@
 <div align="center">
 
-  <!-- Dynamic Cyberpunk Twinkling Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,0f172a,312e81,4338ca,7c3aed,db2777&height=270&section=header&text=Aravind%20O%20K&fontSize=52&fontColor=ffffff&fontAlignY=34&fontAlign=50&animation=twinkling&desc=Computational%20Physics%20%E2%80%A2%20WebAssembly%20Architect%20%E2%80%A2%20Software%20Engineer&descFontSize=16&descAlignY=56&descAlign=50" width="100%" />
-
-  <!-- Animated Neon Typing Headline -->
-  <a href="https://shadow-wave.github.io/aravind-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Computational+Physics+Undergraduate+%E2%9A%9B%EF%B8%8F;Client-Side+WebAssembly+(Pyodide)+Architect+%E2%9A%A1;Pandas+DataFrames+%26+Scientific+Visualizer+%F0%9F%93%8A;Building+Offline-First+Web+Laboratories+%F0%9F%93%A6;Interactive+Canvas+Engines+%26+ODE+Solvers+%F0%9F%8E%AE" alt="Aravind Typing SVG" />
+  <!-- Dynamic Typing Header Banner -->
+  <a href="https://github.com/Shadow-wave">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Aravind+O.K.+%F0%9F%91%8B;Physics+Scholar+%C3%97+Software+Craftsman;Building+High-Performance+Web+%26+System+Engines;100%25+Client-Side+%E2%80%A2+Privacy-First+%E2%80%A2+Creative+Code" alt="Typing SVG" />
   </a>
 
-  <!-- Quick Action Navigation Badges -->
-  <p align="center" style="margin-top: 14px;">
-    <a href="https://shadow-wave.github.io/aravind-portfolio/">
-      <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-030712?style=for-the-badge&logo=googlechrome&logoColor=6366f1&labelColor=0f172a" />
-    </a>
-    <a href="https://shadow-wave.github.io/Omni-pro/">
-      <img src="https://img.shields.io/badge/⚡_OMNI--STUDIO_PRO-4f46e5?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b" />
-    </a>
+  <p align="center">
+    <strong>Bridging Mathematical Rigor, Native Systems, and Immersive Digital Interfaces.</strong>
+  </p>
+
+  <p align="center">
     <a href="mailto:aravindok6@gmail.com">
-      <img src="https://img.shields.io/badge/📫_GET_IN_TOUCH-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=064e3b" />
+      <img src="https://img.shields.io/badge/Email-aravindok6%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" />
     </a>
+    <a href="https://github.com/Shadow-wave">
+      <img src="https://img.shields.io/badge/GitHub-Shadow--wave-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/OS-Fedora%20Linux%20%7C%20KDE-10b981?style=for-the-badge&logo=fedora&logoColor=white&labelColor=0f172a" alt="OS" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ Technical Profile & System Snapshot
+### ⚡ Executive Summary
 
-```python
-from dataclasses import dataclass
-from typing import List
-
-@dataclass
-class DeveloperProfile:
-    name: str = "Aravind O. K."
-    institution: str = "Mahatma Gandhi College, Iritty (B.Sc. Physics)"
-    location: str = "Kannur, Kerala, India"
-    workstation_os: str = "Fedora Linux (KDE Plasma Desktop Shell)"
-    runtime_focus: str = "Client-Side Pyodide (WASM) & Numerical Modeling"
-    
-    def core_competencies(self) -> List[str]:
-        return [
-            "Mathematical Mechanics & Differential Equations",
-            "Pandas DataFrame Analytics & Feature Engineering",
-            "Publication-Grade Matplotlib & Canvas Visualizers",
-            "Offline-First Service Worker (PWA) Architectures",
-            "2D Game Loop State Machines & Mobile Touch Joysticks"
-        ]
+```yaml
+Name: Aravind O.K.
+Focus: Theoretical Physics, High-Performance Web Engines & Mobile System Modding
+Core_Philosophy: "Zero bloat. Pure client-side execution. Mathematical precision."
+Workstation: Fedora Linux (KDE Plasma 6)
+Terminal_Shell: Bash / Zsh
