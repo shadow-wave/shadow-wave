@@ -90,7 +90,7 @@ user@shadow-wave:~$ neofetch --system-profile
   <img src="https://github-readme-stats.vercel.app/api?username=shadow-wave&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&border_radius=12" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadow-wave&theme=tokyonight&hide_border=true&background=0a0d14&ring=a855f7&fire=38bdf8&currStreakLabel=38bdf8&border_radius=12" width="49%" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-wave&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&text_color=94a3b8&border_radius=12" width="65%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadow-wave&theme=tokyo-night&bg_color=0a0d14&color=38bdf8&line=a855f7&point=ec4899&area=true&hide_border=true&border_radius=12" width="98%" alt="Activity Graph" />
 </div>
 
 ---
