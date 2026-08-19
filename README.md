@@ -1,4 +1,4 @@
-# Aravind O K
+
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=250&section=header&text=Aravind%20O%20K&fontSize=54&fontAlignY=36&desc=Computational%20Physics%20%7C%20WebAssembly%20%7C%20Interactive%20Engines&descAlignY=58&descAlign=50&animation=twinkling)
 
