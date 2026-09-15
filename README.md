@@ -1,6 +1,6 @@
 <div align="center">
-<!-- Top Dynamic Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=260&section=header&text=Aravind%20O%20K&fontSize=56&fontAlignY=36&desc=Computational%20Physics%20%E2%80%A2%20WebAssembly%20Engines%20%E2%80%A2%20Interactive%20Systems&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+<!-- Top Cinematic Dynamic Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=260&section=header&text=Aravind%20O%20K&fontSize=54&fontAlignY=36&desc=Computational%20Physics%20%E2%80%A2%20WebAssembly%20Engines%20%E2%80%A2%20Interactive%20Systems&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
 <!-- Dynamic Animated Headline -->
 <a href="https://shadow-wave.github.io/aravind-portfolio/">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=true&width=680&height=85&lines=Bridging+Mathematical+Physics+%26+High-Performance+Software;Engineering+Zero-Cloud+WebAssembly+(Pyodide)+IDEs;Developing+Fluid+Canvas+Engines+%26+Scientific+Simulations;Open-Source+Advocate+%7C+Linux+Power-User+(Fedora+KDE)" alt="Typing Headline" />
@@ -102,22 +102,19 @@
 </table>
 📊 Real-Time Contribution Velocity
 <div align="center">
+<!-- Contribution Snake Animated SVG -->
 <img src="https://raw.githubusercontent.com/shadow-wave/shadow-wave/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
 📈 Developer Telemetry & Analytics
 <div align="center">
-<!-- GitHub Stats & Top Languages Side by Side -->
+<!-- GitHub Stats & Top Languages - Side by Side with Stable Parameters -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shadow-wave&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&border_radius=12" width="48.5%" alt="GitHub Overall Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-wave&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&text_color=94a3b8&border_radius=12" width="48.5%" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shadow-wave&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&border_radius=12" width="48.5%" alt="GitHub Overall Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shadow-wave&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=38bdf8&text_color=94a3b8&border_radius=12" width="48.5%" alt="Top Languages" />
 </p>
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (Highly Stable Demolab Host) -->
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shadow-wave&theme=tokyonight&hide_border=true&background=0a0d14&ring=a855f7&fire=38bdf8&currStreakLabel=38bdf8&border_radius=12" width="98%" alt="GitHub Streak Stats" />
-</p>
-<!-- Full Activity Graph -->
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shadow-wave&theme=tokyo-night&bg_color=0a0d14&color=38bdf8&line=a855f7&point=ec4899&area=true&hide_border=true&border_radius=12" width="98%" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com?user=shadow-wave&theme=tokyonight&hide_border=true&background=0a0d14&ring=a855f7&fire=38bdf8&currStreakLabel=38bdf8&border_radius=12" width="98%" alt="GitHub Streak Stats" />
 </p>
 </div>
 <div align="center">
