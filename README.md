@@ -122,6 +122,6 @@
 <p align="center">
 <i>"Driven by mathematical precision, engineered for open-source performance."</i>
 
-<b>Aravind O K</b> • Iritty, Kerala, India
+<b>Aravind O K</b> • Kerala, India
 </p>
 </div>
